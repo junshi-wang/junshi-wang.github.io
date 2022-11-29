@@ -23,6 +23,31 @@ After visiting the aquarium, we drove up north for the famous "17 mile drive". I
 
 #### Day1 Las Vegas
 
+Warning! Do not take uber on a public holiday, the fee is crazy!!
+
+We arrived in LV at 1130am. As the plane touching the ground, I got a bird's eyeview of this amazing city in the middle of desert. It was said that this place flourished as a middle point for travellers from California to salt lake city. And believe it or not, it possesses easily accessible water resources!
+
+![IMG_20221124_Landing](https://user-images.githubusercontent.com/100028581/204600014-af4d20ec-db65-4814-902c-bfb13e1295f3.jpg)
+
+Later we took rental car shuttle to airport rental car center(the shuttle's free!). We were stuck because our drivers are either under 21 (21-25 will still be charged young driver fee) or without a **physical** driving license (Chinese and International both works, even without translation). Luckily this problem was solved later with the help of Jenny and her friends. 
+
+We spent the rest of our day in Mob Musuem, The Mirage(The Mirage Volcano, LOVE by Cirque du Soleil) and Venetian. 
+
+Mob musuem is one of its kind musuem that focuses on the history of mob and crime in the US. The content and exhibition was surprisingly engaging. It talks about the origin of mob society in the US, which is related to italian, Jewish, etc immigrants.
+
+![IMG_20221124_Mob Museum](https://user-images.githubusercontent.com/100028581/204601582-db944d7d-ff8f-4afe-89b3-ffeb8c621c26.jpg)
+
+The prohibition in 1930s gave them the first opportunity to prosper. Bottlegging becomes very profitable and mobs made their first gold. Las Vegas, as a small city also benefited greatly, expanding from just a ramshackle hub to luxurious casinos and breweries. However, endless desire propelled mob leaders to extert their power on politicians and the police (Bribery in the past was rife). Moreover, assassination and crime become common. Finally, the Chicago valentine's day massacre ignited the common people's hatred towards mobsters. However, with little evidence of crime, most leaders were not convicted as murderer but was enjailed because of tax evasion (ironic right?). 
+
+![IMG_20221124_Tax Evasion](https://user-images.githubusercontent.com/100028581/204604962-6eb9a610-19c7-4f58-ad70-d2b3538fb733.jpg)
+
+Later on, we took a short walk around The Mirage and Venetian. Venetian was quite impressive as it built a "canal" inside the hotel building and even painted the ceiling as picturistic sky. 
+
+![IMG_20221124_210213](https://user-images.githubusercontent.com/100028581/204606974-41ed831d-fb8b-4056-992c-fb6580755869.jpg)
+
+Marking our LV journey with a perfect finale, we went to enjoy LOVE by Cirque du Soleil. The performance was presented as a fantastic combination of singing, dancing, acrobatics and story telling. It resembles a musical in many ways, but its unique thrilling circus show distinguishes itself clearly.
+![IMG_20221124_225818](https://user-images.githubusercontent.com/100028581/204606668-b2da4532-e754-42e0-801c-c4318e1fc435.jpg)
+
 #### Day2 Death Valley
 
 #### Day3 Mammoth-Crowley Lake
