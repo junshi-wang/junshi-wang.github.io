@@ -17,3 +17,6 @@ Courses I like: Statistical Inference......Stay Tuned
 ### Contact me
 
 [wjshku@connect.hku.hk](mailto:wjshku@connect.hku.hk)
+
+### Academic Page
+If you are interested, come and check out my more [academic personal website](https://wjshku.github.io/). 
