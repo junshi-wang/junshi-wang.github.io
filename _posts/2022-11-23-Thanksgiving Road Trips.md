@@ -5,7 +5,7 @@ title: Thanksgiving Road Trip Blog
 
 I am a big fan of nature and museums. And America, being very famous for its abundant and well-preserved national parks and diverse art and history museums, is a perfect place for me. In this blog, I will take you with me onto a 5-day road trip journey, from Monterey to Las Vegas, along the Death Valley and Yosemite, then back to Berkeley. This trip was not expected at all and I didn't initiate it. I am very thankful that my friends were kind enough to invite me and share the joy with me. 
 
-#### Day0 Monterey
+## Day0 Monterey
 
 0730 am Bowles -> 1000 am Monterey -> 1300 pm Pigwizard -> 1400 pm 17 miles Drive -> 2100 pm Bowles
 
@@ -15,6 +15,7 @@ Together with Dylan, Honey and Sun, we set out at around 7 am from Bowles Hall. 
   <source src="https://user-images.githubusercontent.com/100028581/204456733-ff3c90e2-50c2-4570-8050-884c5a32dc9c.mp4" type="video/mp4">
 </video>
 
+#### 
 [Dancing Jellyfish](https://user-images.githubusercontent.com/100028581/204456733-ff3c90e2-50c2-4570-8050-884c5a32dc9c.mp4)
 
 For visitors, feeding time for open sea is not something you want to miss. I enjoy the educational presentation that the oceanists provided, not less than observing the grand school of sardine swimming in a circle with high speed.
@@ -23,7 +24,7 @@ After visiting the aquarium, we drove up north for the famous "17 mile drive". I
 
 ![With Dylan](https://user-images.githubusercontent.com/100028581/204458136-3d0b6bb0-b6b5-4a22-abbb-1b2be3d15c6e.jpg)
 
-#### Day1 Las Vegas
+## Day1 Las Vegas
 
 0730 am Bowles -> 1000 am Oakland Airport -> 1200 pm Las Vagas -> 1500 pm Mob Museum -> 1800 pm Dinner -> 1900 pm Vennitian, The Mirage, Love Show -> 2200 pm Hilton
 
@@ -52,7 +53,7 @@ Later on, we took a short walk around The Mirage and Venetian. Venetian was quit
 Marking our LV journey with a perfect finale, we went to enjoy LOVE by Cirque du Soleil. The performance was presented as a fantastic combination of singing, dancing, acrobatics and story telling. It resembles a musical in many ways, but its unique thrilling circus show distinguishes itself clearly.
 ![IMG_20221124_225818](https://user-images.githubusercontent.com/100028581/204606668-b2da4532-e754-42e0-801c-c4318e1fc435.jpg)
 
-#### Day2 Death Valley
+## Day2 Death Valley
 
 1000 am LV -> 1300 am Death Valley Junction -> 2200 pm Mammoth Lake
 
@@ -80,7 +81,7 @@ We stopped at a small town, "Lone Pine", to buy groceries. I was so grateful, as
 
 At last, we made it to our destination, Mammoth Lake, at 10 pm. Here, a very suprising encounter, we MET **A BABY BEAR**!! The village we lived in was covered in snow and the cute bear climbed onto a tree because he/she was afraid of car head light. Regardless of the bear, we parked the car and finally walked in the wonderful airbnb accommodation. (First time to sleep on a coach 555)
 
-#### Day3 Mammoth-Crowley Lake
+## Day3 Mammoth-Crowley Lake
 
 1100 am Mammoth Lake -> 1400 pm Crowley Lake -> 2100 pm Yosemite
 
@@ -93,7 +94,7 @@ However, it was still the day that I took my favoriate picture. This is the firs
 
 The Airbnb we reserved was just awesome. Take a look [here](https://photos.app.goo.gl/BjWu9ZWzLTsiQiD6A). I stayed up a bit late that day to review the Argentia vs Mexico match!! Bravo!
 
-#### Day4 Yosemite
+## Day4 Yosemite
 
 1000 am Airbnb -> 1200 am Yosemite -> 2200 pm Bowles
 
@@ -110,6 +111,6 @@ It was said that mountain fire in California was quite frequent (every few years
 
 I personally think we could spend 1 or 2 more days at Yosemite, hiking or just relaxing. One day was not possible to fully grasp the charm of Yosemite. At least, we should hike up the Half Dune and Bridal Fall. (Wear more cloth, Winter at Yosemite is really cold).
 
-#### Conclusion
+## Conclusion
 
 This is a very nice experience. My first road trip turned out to be perfect. Thanks for Jenny who invited me to the trip and coordinated almost everything. Thanks Sibble and Jinhao who took up the role as drivers! Thanks all other people who helped rent the car. 
