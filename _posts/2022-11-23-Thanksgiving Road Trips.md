@@ -56,6 +56,8 @@ Marking our LV journey with a perfect finale, we went to enjoy LOVE by Cirque du
 
 1000 am LV -> 1300 am Death Valley Junction -> 2200 pm Mammoth Lake
 
+![image](https://user-images.githubusercontent.com/100028581/206353746-3f4c0d73-3d4e-4bff-a1e4-ade0f013daa4.png)
+
 We set out at 10am in the morning, quite later hh, because everyone was staying up late for LV. At around 1300 pm, we arrived at the entrance to Death Valley, a huge desert national park. (Interestingly, there was a little hotel + opera house?!)
 ![IMG_20221125_150020](https://user-images.githubusercontent.com/100028581/206349869-a3e27356-8f7a-47c6-8f1f-f11172276b7f.jpg)
 
@@ -74,15 +76,40 @@ The colourful sky and hills were enjoyable to look at as well. Some of them are 
 This was the first of our road trip. Everyone was exciting, until the dusk fell. In winter, darkness covers the world starting at as early as 4 pm. Driving on a twisting mountain road was a very unique and stressful experience. We couldn't get any signal and there were barely any cars passing by. I felt we were left alone in ths wild with only a car and the stars. The stars were impressive. The moment I stepped out the door during a short rest, I was astonished by how many stars there are. Sadly my phone was too insensitive to record any of them. But hopefully but writing this blog, I will be able to embed that in my memory.
 ![IMG_20221125_191233](https://user-images.githubusercontent.com/100028581/206351010-cf828855-f601-46d0-8bc8-f12cd9643d89.jpg)
 
-At last, we made it to our destination, Mammoth Lake, at 10 pm. Here, A VERY SURPRISING ENCOUNTERANCE, WE MET **A BABY BEAR**!! The village we lived in was covered in snow and the cute bear climbed onto a tree because he/she was afraid of car head light. Regardless of the bear, we parked the car and finally walked in the wonderful airbnb accommodation. (First time to sleep on a coach 555)
+We stopped at a small town, "Lone Pine", to buy groceries. I was so grateful, as a traveller, to find a grocery store to refill energy on a cold and dark night.
+
+At last, we made it to our destination, Mammoth Lake, at 10 pm. Here, a very suprising encounter, we MET **A BABY BEAR**!! The village we lived in was covered in snow and the cute bear climbed onto a tree because he/she was afraid of car head light. Regardless of the bear, we parked the car and finally walked in the wonderful airbnb accommodation. (First time to sleep on a coach 555)
 
 #### Day3 Mammoth-Crowley Lake
 
 1100 am Mammoth Lake -> 1400 pm Crowley Lake -> 2100 pm Yosemite
+
+![image](https://user-images.githubusercontent.com/100028581/206353990-3770718d-05b9-4e82-ba02-452afe386923.png)
 
 On this day, we spent most of the time on car, because unfortunately the planned road was blocked, presumably due to snow.
 However, it was still the day that I took my favoriate picture. This is the first time that I have seen anything like this in reality. Although mountain and lake in snow blanket is not something uncommon in documentaries and movie, the pure color of white and high mountains still gave me a brand new attachment and awe towards our mother nature.
 ![IMG_20221126_112519](https://user-images.githubusercontent.com/100028581/206351809-ffba3c7a-09a8-495c-ad2a-02dff6c16c9f.jpg)
 ![IMG_20221126_121203](https://user-images.githubusercontent.com/100028581/206352156-cf66810d-ace2-4155-b6c7-176815a11add.jpg)
 
+The Airbnb we reserved was just awesome. Take a look [here](https://photos.app.goo.gl/BjWu9ZWzLTsiQiD6A). I stayed up a bit late that day to review the Argentia vs Mexico match!! Bravo!
+
 #### Day4 Yosemite
+
+1000 am Airbnb -> 1200 am Yosemite -> 2200 pm Bowles
+
+Yosemite is a really beautiful place. I couldn't find the suitable words to describe its beauty. 
+![1 Meditation at Bridal Fall_IMG_20221127_131301](https://user-images.githubusercontent.com/100028581/206355695-a51a54ab-0a9f-4604-80bf-05430ca297b6.jpg)
+![2 Yosemite Valley_IMG_20221127_124650](https://user-images.githubusercontent.com/100028581/206355704-1f7bbfc3-1eff-4812-bf4c-8dbda10f1a6f.jpg)
+![3 Another Fall_IMG_20221127_133325](https://user-images.githubusercontent.com/100028581/206355706-2d3bd3b9-88e8-4d2b-ad88-240e92d189b2.jpg)
+![4 Cute Ice Bear_IMG_20221127_153859](https://user-images.githubusercontent.com/100028581/206355708-a3e9c677-2f3c-42fb-89df-f969a9723515.jpg)
+![5 Mirror Lake_IMG_20221127_144126](https://user-images.githubusercontent.com/100028581/206355710-c79bd724-91e1-4c4c-9067-cd1fd4233b33.jpg)
+
+It was said that mountain fire in California was quite frequent (every few years). The trees with black trunks and dead branches we saw there were the result from a [mountain fire in 2013](https://www.nps.gov/yose/learn/nature/firehistory.htm).
+
+![IMG_20221127_114750](https://user-images.githubusercontent.com/100028581/206356549-c1d2b8de-c0d8-45be-986a-4627d94640e4.jpg)
+
+I personally think we could spend 1 or 2 more days at Yosemite, hiking or just relaxing. One day was not possible to fully grasp the charm of Yosemite. At least, we should hike up the Half Dune and Bridal Fall. (Wear more cloth, Winter at Yosemite is really cold).
+
+#### Conclusion
+
+This is a very nice experience. My first road trip turned out to be perfect. Thanks for Jenny who invited me to the trip and coordinated almost everything. Thanks Sibble and Jinhao who took up the role as drivers! Thanks all other people who helped rent the car. 
