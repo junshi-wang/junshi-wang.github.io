@@ -7,7 +7,7 @@ I am a big fan of nature and museums. And America, being very famous for its abu
 
 ## Day0 Monterey
 
-0730 am Bowles -> 1000 am Monterey -> 1300 pm Pigwizard -> 1400 pm 17 miles Drive -> 2100 pm Bowles
+0730 am Bowles → 1000 am Monterey → 1300 pm Pigwizard → 1400 pm 17 miles Drive → 2100 pm Bowles
 
 Together with Dylan, Honey and Sun, we set out at around 7 am from Bowles Hall. Music is indispensiable for a sucessful road trip. As of a matter of fact, we played Korean and Japanese songs to pay tributes to the football teams at World Cup. In about two and a half hours, we arrived at the world-class Monterey Aquarium (The ticket was quite expensive, at $50 per cap). But it did not let me down. Starting at the tank with sea otters, we visited "Open Sea", "Deep Sea", "Kelp Forest", "Octupus", "Pengiums" and "Touch Pond". In terms of level of amazement, Open sea and Deep sea are the best. I have never seen such magnificent school of sardine and sharks and that was my first time observing the elegant movement of omninous jellyfishes. The feeling of seeing glowing light in the darkness as the transparent creatures dancing in the water could be described as breathtaking. 
 
@@ -21,12 +21,14 @@ Together with Dylan, Honey and Sun, we set out at around 7 am from Bowles Hall. 
 For visitors, feeding time for open sea is not something you want to miss. I enjoy the educational presentation that the oceanists provided, not less than observing the grand school of sardine swimming in a circle with high speed.
 
 After visiting the aquarium, we drove up north for the famous "17 mile drive". I liked the Spanish Beach very much, both for the wonderful wave and uniquely fine sand.
-<img src="https://user-images.githubusercontent.com/100028581/204458136-3d0b6bb0-b6b5-4a22-abbb-1b2be3d15c6e.jpg" width="500" height="600">
-![With Dylan](https://user-images.githubusercontent.com/100028581/204458136-3d0b6bb0-b6b5-4a22-abbb-1b2be3d15c6e.jpg)
+
+<img src="https://user-images.githubusercontent.com/100028581/204458136-3d0b6bb0-b6b5-4a22-abbb-1b2be3d15c6e.jpg" alt="With Dylan" width="700" height="600" class = "center">
+
+![With Dylan](https://user-images.githubusercontent.com/100028581/204458136-3d0b6bb0-b6b5-4a22-abbb-1b2be3d15c6e.jpg | width =100)
 
 ## Day1 Las Vegas
 
-0730 am Bowles -> 1000 am Oakland Airport -> 1200 pm Las Vagas -> 1500 pm Mob Museum -> 1800 pm Dinner -> 1900 pm Vennitian, The Mirage, Love Show -> 2200 pm Hilton
+0730 am Bowles → 1000 am Oakland Airport → 1200 pm Las Vagas → 1500 pm Mob Museum → 1800 pm Dinner → 1900 pm Vennitian, The Mirage, Love Show → 2200 pm Hilton
 
 Warning! Do not take uber on a public holiday, the fee is crazy!!
 
@@ -83,7 +85,7 @@ At last, we made it to our destination, Mammoth Lake, at 10 pm. Here, a very sup
 
 ## Day3 Mammoth-Crowley Lake
 
-1100 am Mammoth Lake -> 1400 pm Crowley Lake -> 2100 pm Yosemite
+1100 am Mammoth Lake → 1400 pm Crowley Lake → 2100 pm Yosemite
 
 ![image](https://user-images.githubusercontent.com/100028581/206353990-3770718d-05b9-4e82-ba02-452afe386923.png)
 
@@ -96,7 +98,7 @@ The Airbnb we reserved was just awesome. Take a look [here](https://photos.app.g
 
 ## Day4 Yosemite
 
-1000 am Airbnb -> 1200 am Yosemite -> 2200 pm Bowles
+1000 am Airbnb → 1200 am Yosemite → 2200 pm Bowles
 
 Yosemite is a really beautiful place. I couldn't find the suitable words to describe its beauty. 
 ![1 Meditation at Bridal Fall_IMG_20221127_131301](https://user-images.githubusercontent.com/100028581/206355695-a51a54ab-0a9f-4604-80bf-05430ca297b6.jpg)
