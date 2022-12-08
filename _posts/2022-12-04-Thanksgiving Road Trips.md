@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thanksgiving Road Trip Blog
+title: Thanksgiving Road Trip Blog 11/24-27
 ---
 
 I am a big fan of nature and museums. And America, being very famous for its abundant and well-preserved national parks and diverse art and history museums, is a perfect place for me. In this blog, I will take you with me onto a 5-day road trip journey, from Monterey to Las Vegas, along the Death Valley and Yosemite, then back to Berkeley. This trip was not expected at all and I didn't initiate it. I am very thankful that my friends were kind enough to invite me and share the joy with me. 
