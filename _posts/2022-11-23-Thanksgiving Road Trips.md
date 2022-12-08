@@ -21,7 +21,7 @@ Together with Dylan, Honey and Sun, we set out at around 7 am from Bowles Hall. 
 For visitors, feeding time for open sea is not something you want to miss. I enjoy the educational presentation that the oceanists provided, not less than observing the grand school of sardine swimming in a circle with high speed.
 
 After visiting the aquarium, we drove up north for the famous "17 mile drive". I liked the Spanish Beach very much, both for the wonderful wave and uniquely fine sand.
-
+<img src="https://user-images.githubusercontent.com/100028581/204458136-3d0b6bb0-b6b5-4a22-abbb-1b2be3d15c6e.jpg" width="500" height="600">
 ![With Dylan](https://user-images.githubusercontent.com/100028581/204458136-3d0b6bb0-b6b5-4a22-abbb-1b2be3d15c6e.jpg)
 
 ## Day1 Las Vegas
