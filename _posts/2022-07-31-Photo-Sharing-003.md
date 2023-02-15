@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Photo sharing about Fitzwilliam Museum
+title: Photo sharing - Fitzwilliam Museum
 ---
 As a record of visiting the Fitzwilliam Museum on 2022/7/31.
 
