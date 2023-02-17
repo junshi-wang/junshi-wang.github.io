@@ -2,9 +2,7 @@
 layout: post
 title: Photo Sharing - Winter Train Trip (Cal Zephyr)
 ---
-Some unrealistic dreams. U don't understand, or do u.
-
-Background music if you want ([_Sealed With A Kiss_](https://www.youtube.com/watch?v=y-Qf2c1xr2I)).
+First post in the serie of 6.
 
 ### Pic 1 - 5 California Zephyr Day 1 in California
 
