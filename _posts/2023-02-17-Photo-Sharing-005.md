@@ -2,7 +2,7 @@
 layout: post
 title: Photo Sharing - Winter Train Trip (Cal Zephyr)
 ---
-First post in the serie of 6.
+First post in the serie on Winter Train Trip in the US of 6.
 
 ### Pic 1 - 5 California Zephyr Day 1 in California
 
