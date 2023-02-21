@@ -30,3 +30,6 @@ What is written on the cement?
 
 ### Pic 8 Splendid Griffith Observatory at Night
 ![7IMG_20221222_201500](https://user-images.githubusercontent.com/100028581/220241000-943a5893-4c4d-4a47-81f0-92bb9849dd87.jpg)
+
+### Missing Pic 9 Nostalgic Italian Restaurant
+With pianist who ages 90+ and singer who is a waitress...
