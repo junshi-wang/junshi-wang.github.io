@@ -22,3 +22,5 @@ Background Sound Track: 农民【[Youtube](https://www.youtube.com/watch?v=3cAab
 ### Pic 2 庄言 陕北庄稼汉
 [庄言油画作品《陕北庄稼汉》图赏](http://www.cnzihua.cn/mhxs/cnyouhua/27313.html)
 ![zw003](https://user-images.githubusercontent.com/100028581/220544503-c45cf5be-b428-4a9a-9a66-450284c2a15e.jpg)
+
+PS: 啥时候中国有导演能拍出来幽灵公主我真的能熟睡着笑醒。
