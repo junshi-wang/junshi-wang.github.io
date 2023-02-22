@@ -13,7 +13,7 @@ Background Sound Track: 白鸽【[Youtube](https://www.youtube.com/watch?v=lNuXb
 
 有的时候真的会想为什么许多中国现代小说作品里的人总是拙口钝辞，甚至无言的，我第一反应是骆驼祥子，第二个想到的是沈从文的丈夫以及三个男人和一个女人。其实细细想来，如果中国人（if not中华民族）有这么一个集体灵魂，或许还真的就是茫茫田野中，渺小到几乎看不到的，双脚踩在地上或者陷在泥地里默默劳作着的人，和Ta隐隐下陷但依旧坚实的背脊。
 
-Background Sound Track: 农民【[Youtube](https://www.youtube.com/watch?v=3cAabCaRTW8)；QQ/网易云（救命找不到）】
+Background Sound Track: 农民【[Youtube](https://www.youtube.com/watch?v=3cAabCaRTW8)】
 
 ### Pic 1 米勒 晚钟
 [正一艺术](https://www.zyzw.com/sjmh051.htm) 这张的宗教意味还和树王的感觉挺契合hh。
