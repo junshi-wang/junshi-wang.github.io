@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Island Hopping with Friend in Pulau Tioman, Malaysia
+title: Photo Sharing - Island Hopping with Friend in Pulau Tioman, Malaysia
 ---
 Beautiful, Tranquil, Enjoyable experience in Malaysia. Can not imagine how great islands in Philipines are.
 
