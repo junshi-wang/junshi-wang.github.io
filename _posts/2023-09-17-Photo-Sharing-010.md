@@ -18,7 +18,7 @@ Walensee is a popular hiking place for people living in Zurich. It is reachable 
 ![天边的小教堂](https://github.com/user-attachments/assets/37aa1dc9-9563-404d-ad77-115e4336e78f)
 
 ### Pic 5 人声鼎沸
-![Uploading 人声鼎沸.jpg…]()
+![人声鼎沸](https://github.com/user-attachments/assets/d3879a8f-71d2-4906-a4b6-949f94ac87c4)
 
 ### Pic 6 轮渡入港
 ![轮渡入港](https://github.com/user-attachments/assets/7a18e401-4f14-4a72-8486-75850a71f9ff)
