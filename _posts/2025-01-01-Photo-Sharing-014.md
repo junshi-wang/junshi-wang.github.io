@@ -9,8 +9,11 @@ The Grand Palace is very stunning, especially the Emerald Temple. I never though
 ![大皇宫](https://github.com/user-attachments/assets/9da957d3-799c-47f9-83cf-9bb1a5aadebe)
 
 ### Pic 2 Wat Arun
-Also know as the Temple of Dawn, it is the capital of Ayutthaya Dynasty. Impressive details and craftmanship.
-![郑王庙主塔](https://github.com/user-attachments/assets/ba6104ed-3d19-4253-b2aa-2b0ba37c2e2b)
+Also known as the Temple of Dawn, it is the capital of the Ayutthaya Dynasty. Impressive details and craftsmanship.
+
+| ![郑王庙主塔](https://github.com/user-attachments/assets/ba6104ed-3d19-4253-b2aa-2b0ba37c2e2b) | ![郑王庙主殿](https://github.com/user-attachments/assets/be3d3bd6-0721-46ec-852b-c38916cf37e1) |
+| :------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: |
+|                                         郑王庙主塔                                          |                                         郑王庙主殿                                          |
 
 ### Pic 3 Last Sunset of 2024
 It was cold, chilly. But everyone kept on waiting and shivering, for this wonder to appear for its last time in 2024. A time for reflection and prayer.
